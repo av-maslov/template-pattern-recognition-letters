@@ -42,3 +42,5 @@ Further instructions:
 
 So, now, the reference is to **3)** [www.elsevier.com: LaTeX instructions](https://www.elsevier.com/author-schemas/preparing-documents-with-latex),  according to which 
 
+> For more complex articles two additional class files and templates are available, single-column (cas-sc.cls) and double-column (cas-dc.cls). 
+> These can be downloaded from [CTAN](https://www.ctan.org/pkg/els-cas-templates/) ([els-cas-template.zip](https://mirrors.ctan.org/macros/latex/contrib/els-cas-templates.zip)). These class files are documented [here](https://support.stmdocs.in/wiki/index.php?title=Elsarticle.cls).
