@@ -1,7 +1,10 @@
 # template-pattern-recognition-letters
 
-- https://www.sciencedirect.com/journal/pattern-recognition-letters
-- https://www.elsevier.com/journals/pattern-recognition-letters/0167-8655/guide-for-authors
+
+
+1) [Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters) points to 2) [Guide for authors](https://www.elsevier.com/journals/pattern-recognition-letters/0167-8655/guide-for-authors)
+
+
 
 
 > The latex template can be found : https://www.elsevier.com/__data/promis_misc/PRLetters-28012014.sty.zip 
