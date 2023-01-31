@@ -40,7 +40,19 @@ Further instructions:
 > availability of any CTAN server. 
 
 
-So, now, the reference is to **3)** [www.elsevier.com: LaTeX instructions](https://www.elsevier.com/author-schemas/preparing-documents-with-latex),  according to which 
+Now the reference is to **3)** [www.elsevier.com: LaTeX instructions](https://www.elsevier.com/author-schemas/preparing-documents-with-latex) which contains the link to [elsarticle-template.zip](https://www.elsevier.com/__data/assets/file/0007/56842/elsarticle-template.zip) 
+> You can download a set of files containing a template LaTeX manuscript, using
+> the elsarticle class, plus associated BibTeX style files
+> [here](https://www.elsevier.com/__data/assets/file/0007/56842/elsarticle-template.zip).
+> Although elsarticle.cls supports most journal styles, it is not possible to
+> match the
+> journal's layout exactly 
+
+- Template is uploaded into [V2/](./V2/elsarticle) folder.
+
+**Also, source 3) says**
 
 > For more complex articles two additional class files and templates are available, single-column (cas-sc.cls) and double-column (cas-dc.cls). 
 > These can be downloaded from [CTAN](https://www.ctan.org/pkg/els-cas-templates/) ([els-cas-template.zip](https://mirrors.ctan.org/macros/latex/contrib/els-cas-templates.zip)). These class files are documented [here](https://support.stmdocs.in/wiki/index.php?title=Elsarticle.cls).
+
+Source 3) contains two options for template and source 1 & 2) refer to the simplest option.
