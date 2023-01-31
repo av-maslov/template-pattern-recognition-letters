@@ -6,7 +6,7 @@
 
 Further instructions:
 
-> The latex template can be found : https://www.elsevier.com/__data/promis_misc/PRLetters-28012014.sty.zip 
+> **The latex template can be found:** https://www.elsevier.com/__data/promis_misc/PRLetters-28012014.sty.zip 
 >
 > Please note that papers can have 7 pages (plus one page after revision).
 > These limits include all materials e.g. narrative, figures, tables,
@@ -14,12 +14,11 @@ Further instructions:
 
 > LaTeX: **The article should be written using Elsevier's document class 'elsarticle' and prletters.sty files provided.** Please do not edit them.
 
-- [V1/main.tex](V1/main.tex) file corresponds to these instructions. [PDF](./V1/main.pdf)
+- [V1/main.tex](V1/main.tex) file corresponds to these instructions. Corresponding [PDF](./V1/main.pdf) file.
 
 Further instructions:
 
-> Detailed instructions for LaTeX preparation can be obtained from the
-> Quickguide:
+> **Detailed instructions for LaTeX preparation can be obtained from the Quickguide:**
 > https://www.elsevier.com/author-schemas/preparing-documents-with-latex or
 > from the Comprehensive TeX Archive Network (CTAN): see below, in the
 > directory /tex-archive/macros/latex/contrib/elsarticle. It consists of the
