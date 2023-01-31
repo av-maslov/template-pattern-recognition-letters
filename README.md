@@ -4,9 +4,10 @@
 - [V2](./V2): [elsarticle-template.zip](https://www.elsevier.com/__data/assets/file/0007/56842/elsarticle-template.zip)
 - [V3](./V3): [els-cas-template.zip](https://mirrors.ctan.org/macros/latex/contrib/els-cas-templates.zip)
 
-**V2 and V3 do not contain any reference to `prletters.sty`. V2 and V3 contain several options each for tex file.**
 
-Where to find right LaTeX template (with right imports and settings)?
+
+- **V2 and V3 do not contain any reference to `prletters.sty`. V2 and V3 contain several options each for tex file.**
+- **Where to find right LaTeX template (with right imports and settings)?**
 
 
 **1)** Journal web page [Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters) refers to **2)** [Guide for authors](https://www.elsevier.com/journals/pattern-recognition-letters/0167-8655/guide-for-authors) which refers to ["The latex template can be found"](https://www.elsevier.com/__data/promis_misc/PRLetters-28012014.sty.zip) which refers to the file `PRLetters-28012014.sty.zip` containing `prletters.sty` file.
