@@ -2,7 +2,7 @@
 
 
 
-**1)** Journal web page [Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters) points to **2)** [Guide for authors](https://www.elsevier.com/journals/pattern-recognition-letters/0167-8655/guide-for-authors) which refers to ["The latex template can be found"](https://www.elsevier.com/__data/promis_misc/PRLetters-28012014.sty.zip) which refers to the file `PRLetters-28012014.sty.zip` containing `prletters.sty` file.
+**1)** Journal web page [Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters) refers to **2)** [Guide for authors](https://www.elsevier.com/journals/pattern-recognition-letters/0167-8655/guide-for-authors) which refers to ["The latex template can be found"](https://www.elsevier.com/__data/promis_misc/PRLetters-28012014.sty.zip) which refers to the file `PRLetters-28012014.sty.zip` containing `prletters.sty` file.
 
 Further instructions:
 
@@ -14,7 +14,7 @@ Further instructions:
 
 > LaTeX: **The article should be written using Elsevier's document class 'elsarticle' and prletters.sty files provided.** Please do not edit them.
 
-- `V1/main.tex` corresponds to these instructions. [PDF](./V1/main.pdf)
+- [V1/main.tex](V1/main.tex) file corresponds to these instructions. [PDF](./V1/main.pdf)
 
 Further instructions:
 
