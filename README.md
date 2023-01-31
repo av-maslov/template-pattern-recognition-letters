@@ -14,7 +14,7 @@ Further instructions:
 
 > LaTeX: **The article should be written using Elsevier's document class 'elsarticle' and prletters.sty files provided.** Please do not edit them.
 
-- `V1/main.tex` corresponds to these instructions.
+- `V1/main.tex` corresponds to these instructions. [PDF](./V1/main.pdf)
 
 Further instructions:
 
