@@ -2,10 +2,9 @@
 
 ## Open access published article example 
 
-- https://www.sciencedirect.com/science/article/pii/S016786552300020X 
-
-[File](ExampleOfPublishedArticle)
-
+- [Example link](https://www.sciencedirect.com/science/article/pii/S016786552300020X)
+- [Example downloaded pdf](ExampleOfPublishedArticle)
+- Screenshot
 <img src="./assets/screenshot.png" width="500">
 
 ### Summary of findings 
