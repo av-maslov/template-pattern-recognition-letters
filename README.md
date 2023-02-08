@@ -6,6 +6,8 @@
 
 [File](ExampleOfPublishedArticle)
 
+![](./assets/screenshot.png)
+
 ### Summary of findings 
 
 - [V1](./V1/): - just `\documentclass{elsarticle} \usepackage{prletters}` 
