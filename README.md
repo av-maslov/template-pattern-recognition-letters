@@ -1,5 +1,10 @@
 ## Trying to find the right template for "Pattern Recognition Letters" journal submission
 
+## Open access published article example 
+
+- https://www.sciencedirect.com/science/article/pii/S016786552300020X 
+
+[File](ExampleOfPublishedArticle)
 
 ### Summary of findings 
 
