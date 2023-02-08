@@ -6,7 +6,7 @@
 
 [File](ExampleOfPublishedArticle)
 
-![](./assets/screenshot.png)
+<img src="./assets/screenshot.png" width="100">
 
 ### Summary of findings 
 
