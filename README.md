@@ -6,6 +6,8 @@
 - [Example downloaded pdf](ExampleOfPublishedArticle)
 - Screenshot
 <img src="./assets/screenshot.png" width="500">
+<img src="./assets/OpenAccessVs_cas-dc-template.PNG" width="500">
+
 
 ### Summary of findings 
 

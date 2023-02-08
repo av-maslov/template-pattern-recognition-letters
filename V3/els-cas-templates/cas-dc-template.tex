@@ -27,7 +27,7 @@
 %\usepackage[numbers]{natbib}
 %\usepackage[authoryear]{natbib}
 \usepackage[authoryear,longnamesfirst]{natbib}
-
+\usepackage{lipsum}
 %%%Author macros
 \def\tsc#1{\csdef{#1}{\textsc{\lowercase{#1}}\xspace}}
 \tsc{WGM}
@@ -42,15 +42,16 @@
 %\newproof{pot}{Proof of Theorem \ref{thm}}
 
 \begin{document}
+	\maketitle
 \let\WriteBookmarks\relax
 \def\floatpagepagefraction{1}
 \def\textpagefraction{.001}
 
 % Short title
-\shorttitle{<short title of the paper for running head>}    
+\shorttitle{Short title of the paper for running head}
 
 % Short author
-\shortauthors{<short author list for running head>}  
+\shortauthors{Short author list for running head}
 
 % Main title of the paper
 \title [mode = title]{<main title>}  
@@ -77,34 +78,36 @@
 %       linkedin=<linkedin id>,
 %       gplus=<gplus id>]
 
-\author[<aff no>]{<author name>}[<options>]
+%\author[<aff no>]{<author name>}[<options>]
+\author{Author name}
 
 % Corresponding author indication
-\cormark[<corr mark no>]
+%\cormark[<corr mark no>]
 
 % Footnote of the first author
-\fnmark[<footnote mark no>]
+%\fnmark[<footnote mark no>]
 
 % Email id of the first author
-\ead{<email address>}
+%\ead{<email address>}
 
 % URL of the first author
-\ead[url]{<URL>}
+%\ead[url]{<URL>}
 
 % Credit authorship
 % eg: \credit{Conceptualization of this study, Methodology, Software}
-\credit{<Credit authorship details>}
+%\credit{<Credit authorship details>}
 
 % Address/affiliation
-\affiliation[<aff no>]{organization={},
-            addressline={}, 
-            city={},
+%\affiliation[<aff no>]{organization={},
+%            addressline={}, 
+%            city={},
 %          citysep={}, % Uncomment if no comma needed between city and postcode
-            postcode={}, 
-            state={},
-            country={}}
+%            postcode={}, 
+%            state={},
+%            country={}}
 
-\author[<aff no>]{<author name>}[<options>]
+%\author[<aff no>]{<author name>}[<options>]
+\author{author name}
 
 % Footnote of the second author
 \fnmark[2]
@@ -119,13 +122,13 @@
 \credit{}
 
 % Address/affiliation
-\affiliation[<aff no>]{organization={},
-            addressline={}, 
-            city={},
+%\affiliation[<aff no>]{organization={},
+%            addressline={}, 
+%            city={},
 %          citysep={}, % Uncomment if no comma needed between city and postcode
-            postcode={}, 
-            state={},
-            country={}}
+%            postcode={}, 
+%            state={},
+%            country={}}
 
 % Corresponding author text
 \cortext[1]{Corresponding author}
@@ -138,7 +141,28 @@
 
 % Here goes the abstract
 \begin{abstract}
-
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed
+bibendum, nulla a faucibus semper, leo velit ultricies tellus,
+ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam
+pellentesque, augue quis sagittis posuere, turpis lacus con-
+gue quam, in hendrerit risus eros eget felis. Maecenas eget
+erat in sapien mattis porttitor. Vestibulum porttitor. Nulla
+facilisi. Sed a turpis eu lacus commodo facilisis. Morbi
+fringilla, wisi in dignissim interdum, justo lectus sagittis dui,
+et vehicula libero dui cursus dui. Mauris tempor ligula sed
+lacus. Duis cursus enim ut augue. Cras ac magna. Cras nulla.
+Nulla egestas. Curabitur a leo. Quisque egestas wisi eget
+nunc. Nam feugiat lacus vel est. Curabitur consectetuer.
+Suspendisse vel felis. Ut lorem lorem, interdum eu, tin-
+cidunt sit amet, laoreet vitae, arcu. Aenean faucibus pede eu
+ante. Praesent enim elit, rutrum at, molestie non, nonummy
+vel, nisl. Ut lectus eros, malesuada sit amet, fermentum eu,
+sodales cursus, magna. Donec eu purus. Quisque vehicula,
+urna sed ultricies auctor, pede lorem egestas dui, et convallis
+elit erat sed nulla. Donec luctus. Curabitur et nunc. Aliquam
+dolor odio, commodo pretium, ultricies non, pharetra in,
+velit. Integer arcu est, nonummy in, fermentum faucibus,
+egestas vel, odio.
 \end{abstract}
 
 % Use if graphical abstract is present
@@ -159,11 +183,11 @@
  \sep \sep \sep
 \end{keywords}
 
-\maketitle
+%\maketitle
 
 % Main text
-\section{}\label{}
-
+\section{Section I}\label{sec:one}
+\lipsum[1-50]
 % Numbered list
 % Use the style of numbering in square brackets.
 % If nothing is used, default style will be taken.
@@ -188,11 +212,11 @@
 %\end{description}  
 
 % Figure
-\begin{figure}[<options>]
-	\centering
-		\includegraphics[<options>]{}
-	  \caption{}\label{fig1}
-\end{figure}
+%\begin{figure}[<options>]
+%	\centering
+%		\includegraphics[<options>]{}
+%	  \caption{}\label{fig1}
+%\end{figure}
 
 
 \begin{table}[<options>]
@@ -221,7 +245,7 @@
 %% appendix sections are then done as normal sections
 %% \appendix
 
-\section{}\label{}
+\section{Second}\label{sec:two}
 
 % To print the credit authorship contribution details
 \printcredits
@@ -234,13 +258,13 @@
 \bibliography{}
 
 % Biography
-\bio{}
+%\bio{}
 % Here goes the biography details.
-\endbio
+%\endbio
 
-\bio{pic1}
+%\bio{pic1}
 % Here goes the biography details.
-\endbio
+%\endbio
 
 \end{document}
 
