@@ -14,10 +14,13 @@ Comparison
 
 ### Summary of findings 
 
+- `cas-dc-template` is very similar, or identical to the open access article, **but this example tex file doesn't include `prletters.sty`**
+
+Versions found according to instructions 
+
 - [V1](./V1/): - just `\documentclass{elsarticle} \usepackage{prletters}` 
 - [V2](./V2): [elsarticle-template.zip](https://www.elsevier.com/__data/assets/file/0007/56842/elsarticle-template.zip)
 - [V3](./V3): [els-cas-template.zip](https://mirrors.ctan.org/macros/latex/contrib/els-cas-templates.zip)
-
 
 
 - **V2 and V3 do not contain any reference to `prletters.sty`. V2 and V3 contain several options each for tex file.**
