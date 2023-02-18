@@ -1,5 +1,18 @@
 ## Trying to find the right template for "Pattern Recognition Letters" journal submission
 
+
+- `cas-dc-template.tex` is the most similar to already published papers, but it doesn't work with `prletters.sty` in which: 
+
+```
+\@ifclassloaded{elsarticle}
+{\typeout{elsarticle.cls is loaded...}}
+{\errmessage{This package will work only with 
+  elsarticle.cls. So please load elsarticle.cls 
+  and try.}}
+
+```
+
+
 ## Open access published article example 
 
 - [Example link](https://www.sciencedirect.com/science/article/pii/S016786552300020X)
